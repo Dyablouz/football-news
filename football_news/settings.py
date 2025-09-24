@@ -34,7 +34,8 @@ DEBUG = True
 ALLOWED_HOSTS = ["localhost", "127.0.0.1","fernando-lawrence-footballnews.pbp.cs.ui.ac.id"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://fernando-lawrence-footballnews.pbp.cs.ui.ac.id"
+    "https://fernando-lawrence-footballnews.pbp.cs.ui.ac.id",
+    "ttps://pbp.cs.ui.ac.id/fernando.lawrence/footballnews/",
 ]
 
 
